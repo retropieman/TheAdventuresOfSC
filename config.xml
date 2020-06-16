@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="io.retropieman.taosc.pe" version="0.0.1" >
+
+  <name>TheAdventuresOfSC BETA</name>
+
+  <description>This is a beta release, not made for production, yet.</description>
+
+  <author href="https://scratch.mit.edu/users/Witherman17" email="noreply@google.com">Witerman17</author>
+
+  <icon src="icon.png" />
+
+</widget>
